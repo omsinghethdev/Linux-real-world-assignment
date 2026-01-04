@@ -1,0 +1,1000 @@
+ 1125  ls
+ 1126  clear
+ 1127  set +x
+ 1128  cler
+ 1129  clear
+ 1130  ls
+ 1131  set -x
+ 1132  clear
+ 1133  set
+ 1134  clear
+ 1135  set +
+ 1136  set +x
+ 1137  clear
+ 1138  ;s
+ 1139  ls
+ 1140  clear
+ 1141  shopt -s autocd
+ 1142  cler
+ 1143  ls
+ 1144  clear
+ 1145  ls
+ 1146  Desktop/
+ 1147  clear
+ 1148  ..
+ 1149  clear
+ 1150  ls
+ 1151  shopt -u autocd
+ 1152  cler
+ 1153  clear
+ 1154  Desktop/
+ 1155  clear
+ 1156  cd 
+ 1157  cd Desktop/
+ 1158  clear
+ 1159  ..
+ 1160  clear
+ 1161  cd ..
+ 1162  clear
+ 1163  shopt -s cdspell
+ 1164  cd Deskptop
+ 1165  clera
+ 1166  clearr
+ 1167  clear
+ 1168  ls
+ 1169  clear
+ 1170  ce
+ 1171  cd
+ 1172  c;lear
+ 1173  clear
+ 1174  shopt -u cdspell
+ 1175  clear
+ 1176  cd Desptop
+ 1177  clear
+ 1178  cd linux-learning-journey/
+ 1179  clear
+ 1180  ls
+ 1181  tree
+ 1182  cd day02-file-management/
+ 1183  cler
+ 1184  clear
+ 1185  tree
+ 1186  nano note.md 
+ 1187  cd ..
+ 1188  cler
+ 1189  clear
+ 1190  ls
+ 1191  mkdir day03-elevating-priveleges-with-sudo
+ 1192  clear
+ 1193  ls
+ 1194  tree
+ 1195  cd day03-elevating-priveleges-with-sudo/
+ 1196  clear
+ 1197  nano note.md
+ 1198  cd..
+ 1199  cd ..
+ 1200  clera
+ 1201  clear
+ 1202  tree
+ 1203  gitt status
+ 1204  clear
+ 1205  git status
+ 1206  clear
+ 1207  ls
+ 1208  nano READEME.md 
+ 1209  clera
+ 1210  clear
+ 1211  git status
+ 1212  git add ..
+ 1213  clear
+ 1214  git add .
+ 1215  clear
+ 1216  git status
+ 1217  git commit -m "Importance of 'sudo'"
+ 1218  clear
+ 1219  git status
+ 1220  git push
+ 1221  clear
+ 1222  git config --global user.email
+ 1223  git log
+ 1224  git config --global user.email"omsingh.ethdev@gmail.com"
+ 1225  clear
+ 1226  gitstatus
+ 1227  git status
+ 1228  clear
+ 1229  ls
+ 1230  nano READEME.md 
+ 1231  git status
+ 1232  git commit -m "fixed"
+ 1233  clear
+ 1234  git status
+ 1235  git add .
+ 1236  clear
+ 1237  git status
+ 1238  git commit -m "Fixed github error"
+ 1239  clear
+ 1240  git push
+ 1241  clear
+ 1242  git config --global user.email
+ 1243  git config --global user.email "omsingh.ethdev@gmail.com"
+ 1244  git config --global user.email
+ 1245  clear
+ 1246  ls
+ 1247  clear
+ 1248  ls
+ 1249  tree
+ 1250  cd day03-elevating-priveleges-with-sudo/
+ 1251  clear
+ 1252  ls
+ 1253  clear
+ 1254  nano note.md 
+ 1255  git status
+ 1256  git add
+ 1257  clear
+ 1258  git status
+ 1259  git add .
+ 1260  clear
+ 1261  ls
+ 1262  clear
+ 1263  git status
+ 1264  git commit -m "added more detail"
+ 1265  git push
+ 1266  clear
+ 1267  ls
+ 1268  clear
+ 1269  cler
+ 1270  clear
+ 1271  ls
+ 1272  cle
+ 1273  exit
+ 1274  PS1='hello-bash$ '
+ 1275  pwd
+ 1276  clear
+ 1277  PS1='\u@\H$ '
+ 1278  PS1='\u@\H (\w:\W) '
+ 1279  cd Downloads/
+ 1280  clear
+ 1281  cd
+ 1282  clear
+ 1283  bash
+ 1284  clear
+ 1285  ls
+ 1286  clear
+ 1287  l
+ 1288  clear
+ 1289  ls
+ 1290  clear
+ 1291  l
+ 1292  clear
+ 1293  l
+ 1294  l -a
+ 1295  clear
+ 1296  l -a
+ 1297  clear
+ 1298  PS1='\u@\h:\w '
+ 1299  clear
+ 1300  cd Downloads/
+ 1301  clear
+ 1302  ls
+ 1303  cd
+ 1304  clear
+ 1305  echo"$TERM"
+ 1306  echo"${TERM}"
+ 1307  clear
+ 1308  echo"${TERM}"
+ 1309  toe
+ 1310  clear
+ 1311  toe
+ 1312  toe -a
+ 1313  clear
+ 1314  infocnp
+ 1315  infocmp
+ 1316  infocmp|grep \e
+ 1317  c;ear
+ 1318  clear
+ 1319  ls
+ 1320  clear
+ 1321  pwd
+ 1322  cd /Download
+ 1323  cler
+ 1324  clear
+ 1325  cd Downloads/
+ 1326  cd /home
+ 1327  clear
+ 1328  ld
+ 1329  ls
+ 1330  clear
+ 1331  cd /~
+ 1332  clear
+ 1333  cd ~
+ 1334  clear
+ 1335  pwd
+ 1336  cd Downloads/
+ 1337  clear
+ 1338  cd /home/om-kumar-singh/
+ 1339  clear
+ 1340  cd Downloads/
+ 1341  clear
+ 1342  ls .
+ 1343  clear
+ 1344  cd .
+ 1345  cd /
+ 1346  clear
+ 1347  ls
+ 1348  ls -a
+ 1349  echo ~
+ 1350  clear
+ 1351  cd
+ 1352  clear
+ 1353  echo
+ 1354  clear
+ 1355  cd linux-learning-journey/
+ 1356  clear
+ 1357  tree
+ 1358  mkdir day04-revision-of-absolutt-relative-path
+ 1359  clear
+ 1360  tree
+ 1361  cd day04-revision-of-absolutt-relative-path/
+ 1362  clear
+ 1363  nano note.md
+ 1364  cat note.md 
+ 1365  clear
+ 1366  cd
+ 1367  clear
+ 1368  cd linux-learning-journey/
+ 1369  clear
+ 1370  tree
+ 1371  nano READEME.md 
+ 1372  clear
+ 1373  git status
+ 1374  git add .
+ 1375  clear
+ 1376  git status
+ 1377  git commit -m "Concept cleared of abso and rel path"
+ 1378  clear
+ 1379  git push
+ 1380  clear
+ 1381  git branch
+ 1382  git branch revision
+ 1383  gitbranch
+ 1384  git branch
+ 1385  git checkout revision 
+ 1386  clear
+ 1387  git branch
+ 1388  ls
+ 1389  cd git checkout main
+ 1390  clear
+ 1391  git branch
+ 1392  clera
+ 1393  clear
+ 1394  ls
+ 1395  cd ..
+ 1396  clear
+ 1397  ls
+ 1398  cd day03-elevating-priveleges-with-sudo/
+ 1399  clear
+ 1400  cat note.md 
+ 1401  ls|wc -l
+ 1402  ls
+ 1403  ls|wc -l >totalfile.txt
+ 1404  clea
+ 1405  clear
+ 1406  ls
+ 1407  clear
+ 1408  cat totalfile.txt 
+ 1409  clear
+ 1410  rm totalfile.txt 
+ 1411  clear
+ 1412  wc -l
+ 1413  clear
+ 1414  ls |wc -l
+ 1415  clear
+ 1416  ls
+ 1417  clear
+ 1418  ls|wc -l |tee totalfile.txt 
+ 1419  cat totalfile.txt 
+ 1420  clear
+ 1421  cat totalfile.txt 
+ 1422  rm totalfile.txt 
+ 1423  clear
+ 1424  ls
+ 1425  clear
+ 1426  ping google.com
+ 1427  clear
+ 1428  ls |sort
+ 1429  ls |sort -r
+ 1430  clear
+ 1431  ls |sort -k 2
+ 1432  clear
+ 1433  ls|sort|uniq
+ 1434  clear
+ 1435  ls|sort|uniq -d
+ 1436  clear
+ 1437  ls|sort -u
+ 1438  lear
+ 1439  clear
+ 1440  ls |grep -F '.txt'
+ 1441  ip addr show
+ 1442  clear
+ 1443  echo 'OM kumar singh'| tr 'a-z' 'A-Z'
+ 1444  clear
+ 1445  echo 'om kumar singha'|tr -d 'a'
+ 1446  clear
+ 1447  uptime |cut -b 1-10
+ 1448  ls |cut -b
+ 1449  ls |cut -b 1-8
+ 1450  clear
+ 1451  ls |cut -c 1-15
+ 1452  clear
+ 1453  echo "${SHELL}"
+ 1454  cd /etc/profile
+ 1455  cd etc/profile
+ 1456  clear
+ 1457  nano .bashrc
+ 1458  ls -a
+ 1459  grep -F '.bash'
+ 1460  clear
+ 1461  grep -F ".bash"
+ 1462  clear
+ 1463  ls |grep -F ".bashrc"
+ 1464  ls -a |grep -F ".bashrc"
+ 1465  clear
+ 1466  ls -a |grep -F ".bashrc"
+ 1467  cat .bashrc
+ 1468  clear
+ 1469  cd linux-learning-journey/
+ 1470  tree
+ 1471  cat READEME.md 
+ 1472  clear
+ 1473  tree
+ 1474  mkdir day05-package-manegement
+ 1475  clear
+ 1476  cd day05-package-manegement/
+ 1477  cler
+ 1478  clear
+ 1479  nano note.md
+ 1480  clear
+ 1481  git status
+ 1482  cd ..
+ 1483  clear
+ 1484  gitstatus
+ 1485  git status
+ 1486  clear
+ 1487  nano READEME.md 
+ 1488  clear
+ 1489  git status
+ 1490  git add .
+ 1491  git commit -m "Package management"
+ 1492  clear
+ 1493  git branch
+ 1494  clear
+ 1495  git push
+ 1496  clear
+ 1497  cd 
+ 1498  clera
+ 1499  clear
+ 1500  ls
+ 1501  clear
+ 1502  ls *
+ 1503  clear
+ 1504  ls
+ 1505  echo *
+ 1506  clear
+ 1507  echo *
+ 1508  clear
+ 1509  echo *.txt
+ 1510  clear
+ 1511  ls ~
+ 1512  clear
+ 1513  ls ~/Downloads/
+ 1514  clear
+ 1515  echo ~
+ 1516  clear
+ 1517  echo ~/Downloads/
+ 1518  clear
+ 1519  echo "${HOME}"
+ 1520  clear
+ 1521  echo $HOME
+ 1522  clear
+ 1523  env
+ 1524  clear
+ 1525  echo "{
+ 1526  clear
+ 1527  echo "${#HOME}"
+ 1528  clear
+ 1529  cd linux-learning-journey/
+ 1530  clear
+ 1531  tre
+ 1532  clear
+ 1533  tree
+ 1534  mkdir day06-file-management-organising-files-and-directories
+ 1535  cd day06-file-management-organising-files-and-directories/
+ 1536  clear
+ 1537  nano note.md
+ 1538  cat note.md 
+ 1539  clear
+ 1540  nano note.md 
+ 1541  clear
+ 1542  cat note.md 
+ 1543  clear
+ 1544  ls
+ 1545  clear
+ 1546  ls
+ 1547  clear
+ 1548  cd ..
+ 1549  clear
+ 1550  ls
+ 1551  nano READEME.md 
+ 1552  clear
+ 1553  gitstatus
+ 1554  git status
+ 1555  clear
+ 1556  git status
+ 1557  git add ..
+ 1558  git add .
+ 1559  clear
+ 1560  git status
+ 1561  git commit -m "organizing file and directories"
+ 1562  clear
+ 1563  ls
+ 1564  clar
+ 1565  clear
+ 1566  git push
+ 1567  clear
+ 1568  nano twiter.txt
+ 1569  cd linux-learning-journey/
+ 1570  cea
+ 1571  clar
+ 1572  clear
+ 1573  tree
+ 1574  mkdir day07-file-management-working-with-.txt-file
+ 1575  cd day07-file-management-working-with-.txt-file/
+ 1576  clear
+ 1577  ls
+ 1578  clera
+ 1579  clear
+ 1580  nano note.md
+ 1581  cat note.md 
+ 1582  clear
+ 1583  ls
+ 1584  clear
+ 1585  cd ..
+ 1586  clear
+ 1587  ls
+ 1588  nano READEME.md 
+ 1589  cd day07-file-management-working-with-.txt-file/
+ 1590  clear
+ 1591  ls
+ 1592  nano note.md 
+ 1593  clear
+ 1594  cd
+ 1595  cd linux-learning-journey/
+ 1596  cler
+ 1597  clear
+ 1598  git status
+ 1599  git add.
+ 1600  clear
+ 1601  git status
+ 1602  git add .
+ 1603  clear
+ 1604  git status
+ 1605  clar
+ 1606  clear
+ 1607  git commit -m "Woking with txt in trm"
+ 1608  clear
+ 1609  git push
+ 1610  clear
+ 1611  git status
+ 1612  clear
+ 1613  ks
+ 1614  ls
+ 1615  cler
+ 1616  fcler
+ 1617  clear
+ 1618  sudo apt update
+ 1619  clear
+ 1620  ls
+ 1621  cd linux-learning-journey/
+ 1622  cler
+ 1623  clear
+ 1624  tree
+ 1625  mkdir day08-file-management-working-with-txt-file
+ 1626  clera
+ 1627  clear
+ 1628  ls
+ 1629  tree
+ 1630  cd day08-file-management-working-with-txt-file/
+ 1631  clear
+ 1632  ls
+ 1633  clear
+ 1634  nano note.md
+ 1635  cd
+ 1636  cler
+ 1637  clear
+ 1638  cd linux-learning-journey/
+ 1639  clear
+ 1640  tre
+ 1641  tree
+ 1642  nano READEME.md 
+ 1643  clear
+ 1644  ls
+ 1645  clear
+ 1646  git status
+ 1647  git add .
+ 1648  clear
+ 1649  git commit -m "Revision day"
+ 1650  clear
+ 1651  git push
+ 1652  clear
+ 1653  sudo apt update
+ 1654  clear
+ 1655  sudo apt upgrade
+ 1656  clear
+ 1657  ls
+ 1658  clear
+ 1659  cd
+ 1660  clear
+ 1661  echo "${PATH}"
+ 1662  clear
+ 1663  ls
+ 1664  clear
+ 1665  git status
+ 1666  clrar
+ 1667  clrat
+ 1668  clear
+ 1669  ls
+ 1670  claer
+ 1671  clear
+ 1672  ls
+ 1673  clear
+ 1674  git status
+ 1675  git rm -rf
+ 1676  clear
+ 1677  ls
+ 1678  clear
+ 1679  ls
+ 1680  clear
+ 1681  echo 'My name is om kumar singh'
+ 1682  clear
+ 1683  ls
+ 1684  ls *
+ 1685  cler
+ 1686  clear
+ 1687  ls *
+ 1688  clear
+ 1689  echo *
+ 1690  clear
+ 1691  echo .txt
+ 1692  echo *.txt
+ 1693  clear
+ 1694  echo /home/om-kumar-singh/Downloads/
+ 1695  echo /home/om-kumar-singh/Downloads/*.txt
+ 1696  ls /home/om-kumar-singh/Downloads/*.txt
+ 1697  clear
+ 1698  ls "${HOME}"
+ 1699  HOME=/
+ 1700  clear
+ 1701  ls "${HOME}"
+ 1702  clear
+ 1703  bash
+ 1704  clear
+ 1705  ls "${HOME}"
+ 1706  clear
+ 1707  ls ~
+ 1708  clear
+ 1709  echo ~+
+ 1710  clear
+ 1711  echo ~
+ 1712  clear
+ 1713  ls ~
+ 1714  clear
+ 1715  echo "
+ 1716  clear
+ 1717  echo "${P
+ 1718  ATH}"
+ 1719  clear
+ 1720  echo "${P
+ 1721  ATH}"
+ 1722  clear
+ 1723  echo "${PATH}"
+ 1724  echo "${#PATH}"
+ 1725  clear
+ 1726  echo "${HOME}"
+ 1727  echo "${#HOME}"
+ 1728  clear
+ 1729  echo "${IFS}"
+ 1730  echo "${IFS}"| hexdump
+ 1731  cat $PWD/*.txt
+ 1732  clear
+ 1733  echo $PWD/*.txt
+ 1734  clear
+ 1735  echo '$PWD/*.txt'
+ 1736  echo "$PWD/*.txt"
+ 1737  echo
+ 1738  clear
+ 1739  ls 
+ 1740  echo
+ 1741  clear
+ 1742  cd files
+ 1743  clear
+ 1744  mkdir files
+ 1745  cd files/
+ 1746  clear
+ 1747  touch a.txt b.txt file1.txt file2.txt
+ 1748  clear
+ 1749  ls
+ 1750  touch echo
+ 1751  touch image.jpj
+ 1752  clear
+ 1753  ls
+ 1754  echo *
+ 1755  clear
+ 1756  echo *
+ 1757  clear
+ 1758  *
+ 1759  ls
+ 1760  rm a.txt b.txt 
+ 1761  clea
+ 1762  clear
+ 1763  *
+ 1764  echo
+ 1765  clear
+ 1766  *
+ 1767  clear
+ 1768  echo *
+ 1769  *
+ 1770  clear
+ 1771  touch -al
+ 1772  touch ./-al
+ 1773  clear
+ 1774  ls
+ 1775  ls *
+ 1776  ls ./*
+ 1777  mkdir 'a folder'
+ 1778  cd a\ folder/
+ 1779  clear
+ 1780  touch $PWD/file.txt
+ 1781  echo $PWD/file.txt
+ 1782  touch "${PWD}/file.txt"
+ 1783  ls
+ 1784  clear
+ 1785  touch $PWD/file.txt
+ 1786  clear
+ 1787  ls
+ 1788  rm file.txt l
+ 1789  clear
+ 1790  ls
+ 1791  clear
+ 1792  touch $PWD/file.txt
+ 1793  ls
+ 1794  clear
+ 1795  echo "\""
+ 1796  clear
+ 1797  echo \"
+ 1798  clear
+ 1799  ls
+ 1800  clear
+ 1801  ls
+ 1802  clear
+ 1803  echo data.{txt,csv}
+ 1804  clear
+ 1805  echo {a..z}
+ 1806  clear
+ 1807  echo {A..Z
+ 1808  echo {A..Z}
+ 1809  clear
+ 1810  cd linux-learning-journey/
+ 1811  clear
+ 1812  tree
+ 1813  mkdir day08-redirection-manage-data-streams
+ 1814  clear
+ 1815  ls
+ 1816  clear
+ 1817  ls
+ 1818  mv day08-redirection-manage-data-streams/day09-redirecting-manage-data-stream
+ 1819  clear
+ 1820  ls
+ 1821  mv day08-redirection-manage-data-streams day09-redirecting-manage-data-stream
+ 1822  clear
+ 1823  ls
+ 1824  cd  day09-redirecting-manage-data-stream/
+ 1825  clear
+ 1826  ls
+ 1827  clear
+ 1828  touch note.md
+ 1829  clear
+ 1830  nano note.md 
+ 1831  clear
+ 1832  cd ..
+ 1833  clear
+ 1834  ls
+ 1835  nano 
+ 1836  clear
+ 1837  s
+ 1838  ls
+ 1839  nano READEME.md 
+ 1840  clear
+ 1841  git status
+ 1842  git add .
+ 1843  clear
+ 1844  git status
+ 1845  git commit -m "Managing datastream
+ 1846  "
+ 1847  clear
+ 1848  git status
+ 1849  clear
+ 1850  git push
+ 1851  clear
+ 1852  cd
+ 1853  clear
+ 1854  wc -l < stdinn.txt
+ 1855  wc -l
+ 1856  clear
+ 1857  echo "My current working directory is :$(pwd)"
+ 1858  clear
+ 1859  echo 'Size of our home directory is :' "$(du -sh ~)"
+ 1860  echo 'There'"'"'r'"$(ls|wc -l)"'files in the current directory'
+ 1861  echo 'There'"'"'r '"$(ls|wc -l)"'files in the current directory'
+ 1862  echo 'There'"'"'re '"$(ls|wc -l)"'files in the current directory'
+ 1863  echo 'There'"'"'re '"$(ls|wc -l)"' files in the current directory'
+ 1864  clear
+ 1865  ls
+ 1866  clear
+ 1867  echo 'There'"'"'re '"$(ls|wc -l)"' files in the current directory'
+ 1868  clear
+ 1869  echo "`ls`"
+ 1870  clear
+ 1871  ls
+ 1872  clear
+ 1873  ls -l
+ 1874  clear
+ 1875  ls -al
+ 1876  clear
+ 1877  ls -al
+ 1878  clear
+ 1879  pwd
+ 1880  clear
+ 1881  la
+ 1882  clear
+ 1883  ls
+ 1884  clear
+ 1885  ls -al
+ 1886  clear
+ 1887  ls
+ 1888  clear
+ 1889  ls -s Downloads/ dwn
+ 1890  ln -s Downloads/ dwn
+ 1891  clear
+ 1892  ls
+ 1893  cd dwn
+ 1894  ls
+ 1895  clear
+ 1896  cd ..
+ 1897  clear
+ 1898  ls -l
+ 1899  cd linux-learning-journey/
+ 1900  clear
+ 1901  tre
+ 1902  tree
+ 1903  clear
+ 1904  mkdir day10-pipes-data-processing-through-command-chaining
+ 1905  cler
+ 1906  clear
+ 1907  cd day10-pipes-data-processing-through-command-chaining/
+ 1908  clera
+ 1909  nano note.md
+ 1910  clear
+ 1911  tree
+ 1912  clear
+ 1913  cd ..
+ 1914  clear
+ 1915  tree
+ 1916  nano READEME.md 
+ 1917  clear
+ 1918  git status
+ 1919  git add .
+ 1920  clear
+ 1921  git status
+ 1922  git commit -m "Pipes and commonly used tools"
+ 1923  clra
+ 1924  clear
+ 1925  git push
+ 1926  clera
+ 1927  clear
+ 1928  ls
+ 1929  nano READEME.md 
+ 1930  git status
+ 1931  git add .
+ 1932  clear
+ 1933  git status
+ 1934  git commit "Fixed readme.md"
+ 1935  clear
+ 1936  git status
+ 1937  git commit -m "Fixed readme"
+ 1938  clear
+ 1939  git status
+ 1940  git push
+ 1941  clear
+ 1942  cd
+ 1943  clear
+ 1944  ls
+ 1945  clar
+ 1946  clear
+ 1947  ls
+ 1948  clear
+ 1949  cd
+ 1950  clera
+ 1951  clear
+ 1952  ls
+ 1953  cler
+ 1954  clear
+ 1955  ls |rev
+ 1956  clear
+ 1957  ls |rev
+ 1958  echo ls
+ 1959  clera
+ 1960  clear
+ 1961  echo *
+ 1962  echo *|rev
+ 1963  clear
+ 1964  touch file.txt
+ 1965  clar
+ 1966  clear
+ 1967  ls |grep "file.txt"
+ 1968  ls |grep ".txt"
+ 1969  clear
+ 1970  ls
+ 1971  clear
+ 1972  nano file
+ 1973  df -ih
+ 1974  clear
+ 1975  ls
+ 1976  clear
+ 1977  ls
+ 1978  df -ih
+ 1979  clear
+ 1980  ls
+ 1981  clesar
+ 1982  clear
+ 1983  sudo cat /dev/input/mic
+ 1984  sudo cat /dev/input/mice
+ 1985  clear
+ 1986  ls -l
+ 1987  clear
+ 1988  cd /
+ 1989  clear
+ 1990  ls -l
+ 1991  clear
+ 1992  cd /dev
+ 1993  clear
+ 1994  ls -l
+ 1995  clear
+ 1996  ls
+ 1997  ls -l
+ 1998  clear
+ 1999  tty
+ 2000  cd linux-learning-journey/
+ 2001  clear
+ 2002  cd
+ 2003  clear
+ 2004  mkdir linux-real-world-assignment
+ 2005  clear
+ 2006  cd linux-real-world-assignment/
+ 2007  clear
+ 2008  git init
+ 2009  git status
+ 2010  clear
+ 2011  git rm -rf
+ 2012  clear
+ 2013  git status
+ 2014  clear
+ 2015  git remote add origin https://github.com/omsinghethdev/Linux-real-world-assignment.git
+ 2016  clear
+ 2017  git remote -v
+ 2018  clear
+ 2019  mkdir assignment01-workspace-setup
+ 2020  cd assignment01-workspace-setup/
+ 2021  clear
+ 2022  touch commands.txt output.txt note.md RAEDME.md
+ 2023  clear
+ 2024  ls
+ 2025  clear
+ 2026  cd ..
+ 2027  clear
+ 2028  ls
+ 2029  git push
+ 2030  git  branch -M main
+ 2031  git branch
+ 2032  git push -u origin main
+ 2033  git  branch -M main
+ 2034  clear
+ 2035  ls
+ 2036  git remote -b
+ 2037  git remote -v
+ 2038  clear
+ 2039  git status
+ 2040  git add .
+ 2041  clear
+ 2042  git status
+ 2043  git commit "Added new files"
+ 2044  git commit -m  "Added new files"
+ 2045  clera
+ 2046  clear
+ 2047  git status
+ 2048  git push
+ 2049  git push -u origin main
+ 2050  clear
+ 2051  git push
+ 2052  clear
+ 2053  cd 
+ 2054  clear
+ 2055  mkdir workspace
+ 2056  mkdir workspace/project workspace/scripts workspace/logs workspace/backup
+ 2057  cler
+ 2058  clear
+ 2059  ls workspace/
+ 2060  clear
+ 2061  cd workspace/
+ 2062  clear
+ 2063  ls
+ 2064  touch backup/.readme
+ 2065  touch logs/.readme project/.readme scripts/.readme
+ 2066  clear
+ 2067  tree
+ 2068  cd backup/
+ 2069  ls
+ 2070  clear
+ 2071  cd ..
+ 2072  clear
+ 2073  ls
+ 2074  clear
+ 2075  ls
+ 2076  touch backup/readme.md
+ 2077  clear
+ 2078  tree
+ 2079  touch logs/readme.md project/readme.md scripts/readme.md
+ 2080  clear
+ 2081  tree
+ 2082  nano project/readme.md 
+ 2083  cat project/readme.md 
+ 2084  clear
+ 2085  tree
+ 2086  nano scripts/readme.md 
+ 2087  clear
+ 2088  tree
+ 2089  nano logs/readme.md 
+ 2090  nano backup/readme.md 
+ 2091  clear
+ 2092  du 
+ 2093  du -h
+ 2094  clear
+ 2095  linuc command history
+ 2096  history
+ 2097  clear
+ 2098  tree
+ 2099  history |>logs/command-history.txt
+ 2100  clear
+ 2101  tree
+ 2102  cd logs
+ 2103  clear
+ 2104  ls
+ 2105  cat command-history.txt 
+ 2106  clear
+ 2107  du
+ 2108  du -h
+ 2109  clear
+ 2110  ls
+ 2111  car readme.md 
+ 2112  cat readme.md 
+ 2113  clear
+ 2114  cat command-history.txt 
+ 2115  rm  command-history.txt 
+ 2116  clear
+ 2117  ls
+ 2118  cd ..
+ 2119  clear
+ 2120  tree
+ 2121  history
+ 2122  cat history
+ 2123  clear
+ 2124  history >logs/command-history.txt

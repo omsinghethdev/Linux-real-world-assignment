@@ -1,0 +1,2 @@
+3:56:00 WARNING API Request Denied
+4:00:00 WARNING SYSTEM Crashed
