@@ -1,2 +1,10 @@
-6:00:00 WARNING Network Disconnected
-6:05:00 WARNING Network connected
+
+==SYSTEM WARNING==
+Total no of warning :
+3 system-warnings.txt
+Inactive users
+3
+====Application issue summary====
+2
+3:56:00 WARNING API Request Denied
+4:00:00 WARNING SYSTEM Crashed
