@@ -1,0 +1,7 @@
+admin om-kumar-singh admin active
+user1 nipurn-bandi user active 
+user2 anand-banghel user inactive 
+user3 ansh-thakur user inactive
+user4 harish-chandra user inactive 
+superusr harendra-pratap-singh user active
+user5 saurav-raj user  active 

@@ -1,0 +1,4 @@
+
+INFO logs extracted    :4
+WARNING  logs extracted    :2
+WARNING  logs extracted    :3

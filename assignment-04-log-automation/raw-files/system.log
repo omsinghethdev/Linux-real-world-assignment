@@ -1,0 +1,7 @@
+5:00:00 INFO SystemStarts Status=Good
+5:10:00 INFO Cpu Load=75%
+6:00:00 WARNING Network Disconnected
+6:10:00 INFO DiskUsage 25%
+6:05:00 WARNING Network connected
+8:00:00 INFO SystemBoot Reboot iniciated
+
